@@ -3,3 +3,10 @@ Public static void main(String[] args){
 System.out.println("Hello World");
 }
 }
+
+//modified data
+class hi{
+void hi(){
+system.out.println("Hello")
+}
+}
